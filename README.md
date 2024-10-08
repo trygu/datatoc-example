@@ -1,6 +1,3 @@
-Got it! Here’s the updated `README.md` reflecting the use of `Poetry` for dependency management:
-
-```markdown
 # datadoc-example
 
 This repository provides a simple notebook example demonstrating how to use [SSB's datadoc-model](https://github.com/statisticsnorway/ssb-datadoc-model) for documenting Parquet files with metadata. The purpose of this example is to show how to generate and validate metadata for a Parquet dataset using the `pydantic`-based datadoc model.
