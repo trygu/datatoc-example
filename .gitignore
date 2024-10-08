@@ -9,7 +9,6 @@
 *.csv
 *.db
 *.feather
-*.parquet
 *.sas7bdat
 *.xls
 *.xlsx
